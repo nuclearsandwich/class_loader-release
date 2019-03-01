@@ -1,3 +1,26 @@
+## class_loader (crystal) - 1.2.0-4
+
+The packages in the `class_loader` repository were released into the `crystal` distro by running `/home/steven/osrf/venv.bloom/bin/bloom-release -d -r crystal class_loader --override-release-repository-url git@github.com:nuclearsandwich/class_loader-release` on `Fri, 01 Mar 2019 19:47:46 -0000`
+
+The `class_loader` package was released.
+
+Version of package(s) in repository `class_loader`:
+
+- upstream repository: https://github.com/ros/class_loader.git
+- release repository: https://github.com/ros2-gbp/class_loader-release.git
+- rosdistro version: `1.2.0-0`
+- old version: `1.2.0-3`
+- new version: `1.2.0-4`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.3`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.1`
+- vcstools version: `0.1.40`
+
+
 ## class_loader (crystal) - 1.2.0-3
 
 The packages in the `class_loader` repository were released into the `crystal` distro by running `/home/steven/osrf/venv.bloom/bin/bloom-release -d -r crystal class_loader --override-release-repository-url git@github.com:nuclearsandwich/class_loader-release` on `Fri, 01 Mar 2019 19:45:54 -0000`
